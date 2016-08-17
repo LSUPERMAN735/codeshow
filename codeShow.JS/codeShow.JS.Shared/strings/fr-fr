@@ -1,0 +1,15 @@
+
+	"WelcomeSectionHeader": "bienvenue",
+	"CategoriesSectionHeader": "catégories",
+    "DemosSectionHeader": "démos",
+    "ContributorsSectionHeader": "contributeurs",
+    "DemoSectionHeader": "démo en direct",
+
+    "CodeSectionHeader": "code source ",
+    "SourceCodeSectionSubtext": "Le code source complet est disponible en ligne",
+    "SourceCodeSectionDescription": "{ description comment obetenir le code source sur GitHub et que voulez vous faire avec }",
+
+    "AppsHeader": "Apps",
+    "AppsParagraphHeader": "Vous êtes parfait avec l' app... maintenant admirez!",
+    "AppsParagraph": "Les sections apps section en codeShow est destiné à aider et à rendre votre application visible. Si vous avez créé une application, vous pouvez soumettre votre application à inclure dans la liste codeShow et obtenir une certaine visibilité pour votre application. Il suffit de visiter la section des applications et cliquez pour ajouter un nouveau."
+}
